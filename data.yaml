@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/ML, DL, GenAI Projects & Dataset folder/YOLOv11_project/project1/train/images
+val: /content/drive/MyDrive/ML, DL, GenAI Projects & Dataset folder/YOLOv11_project/project1/valid/images
+
+nc: 5
+names: ['Helmet','Goggles','Jacket','Gloves','Footwear']
